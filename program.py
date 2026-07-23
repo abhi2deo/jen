@@ -13,4 +13,4 @@ elif(ch==2):
 elif(ch==3):
     print("Balance: ",balance)
 else:
-    print("Invalid input")
+    print("Invalid input!")
