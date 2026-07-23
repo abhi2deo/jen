@@ -1,6 +1,4 @@
-print(''' 1.Withdraw
-          2.Deposit
-          3.Check balance''')
+print("1.Withdraw\n2.Deposit\n3.Check balance")
 balance = 10000000000
 
 ch = int(input("Choose operation: "))
